@@ -12,4 +12,4 @@ hacer commit
 ```git commit -m "mensaje"``` 
 
 comprobar estado
-```git status´´´
+```git status```
