@@ -8,5 +8,8 @@ inicializar repo
 añadir archivos   
 ```git add nombre archivo``` 
 
-hacer comit    
-```git comit -m "mensaje"``` 
+hacer commit    
+```git commit -m "mensaje"``` 
+
+comprobar estado
+```git status´´´
